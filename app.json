@@ -1,17 +1,17 @@
 
 {
-	"name": "WhatsAppBot-MD",
+	"name": "𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅 B𝛩𝑇😁",
 	"description": "Fully Costamisable Bot by, Alien-Alfa.",
 	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","WhatsApp Bot"],
+	"logo": "https://imgur.com/a/oQ2vAJ3",
+	"keywords": ["*_*𝘪𝘢𝘮𝘹𝘥𝘢*_*","*_*𝘵𝘩𝘦 𝘫𝘰𝘬𝘦𝘳*_*"],
     	"stack": "container",
 	"env": { 
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
-            "required": false,
-            "value": "0,447405935255"
+            "required": true,
+            "value": "2348107582855"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -30,13 +30,13 @@
         },
 	"AUTO_DOWNLOADER": {
             "description": "Auto Downloader (BETA) Insta and YouTube",
-            "required": true,
+            "required": false,
             "value": ">active"
         },
 	"STICKER_PACK": {
             "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "ＡＬＩＥＮ,ＡＬＦＡ"
+            "required": true,
+            "value": " 𝘪𝘢𝘮𝘹𝘥𝘢😁😁;𝘵𝘩𝘦 𝘫𝘰𝘬𝘦𝘳"
         }, 
     "URLBUTTON1": {
             "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
@@ -55,8 +55,8 @@
         },
     "PROFILE_IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "required": true,
+            "value": "https://imgur.com/a/oQ2vAJ3"
         },
     "URL_IMAGE": {
             "description": "Image For The Adplay (leave it if you Wish to use the default)",
@@ -70,8 +70,8 @@
         },
     "SUDO": {
             "description": "Add superuser to this bot",
-            "required": false,
-            "value": "0,447405935255"
+            "required": true,
+            "value": "2348107582855"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -81,12 +81,13 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅 B𝛩𝑇😁"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "required": true,
+            "value": "𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅 B𝛩𝑇😁"
+"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -96,7 +97,7 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "xdacity.co@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
@@ -106,7 +107,7 @@
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/feranmi245/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
@@ -115,21 +116,23 @@
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "required": true,
+            "value": "£ 𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅😁"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝘱𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘺 𝘪𝘢𝘮𝘹𝘥𝘢 𝘵𝘩𝘦 𝘫𝘰𝘬𝘦𝘳😁"
         },
     "HEROKU_APP_NAME": {
             "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
             "required": true
+	    "value": "alienmdgg"
         },
     "HEROKU_API_KEY": {
             "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
             "required": true
+	    "value":  "64d31880-c4f9-4b55-8807-62656c135c81"
         },
 	"BETA_FUNCTIONS1": {
             "description": "Experimental Functions and Commands (Remember This Might Crash Your BOT)",
@@ -152,16 +155,16 @@
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
-            "required": false
+            "required": true,
+	    "value":  "*_*JOKE BOT 02 ALWAYS ACTIVE SINCE JOKER CREATED ME*_*"
         },
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
-            "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
-        },
+            "required": true,
+            "value": "https://imgur.com/a/oQ2vAJ3"
     "LITE_MODE": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
-            "required": false,
+            "required": true,
             "value": ">active"
         },
 	"OWNER_MESS": {
